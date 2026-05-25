@@ -1,4 +1,4 @@
-# 🏭 Reconhecimento de Objetos-C2 — Auditoria Visual Contínua — Plataforma SaaS
+# 🏭 Reconhecimento de Objetos - C2 — Auditoria Visual Contínua — Plataforma SaaS
 
 Sistema de Análise de Fluxo e Mapeamento de Processos com Inteligência Artificial multi-classe, rodando localmente com uma interface web interativa. Projetado para ambientes físicos, o sistema cruza dados visuais para gerar insights e heurísticas de ocupação.
 
